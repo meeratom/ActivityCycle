@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityCycle</string>
+    <string name="action_settings">Settings</string>
+    <string name="oncreate">onCreate() calls : 0</string>
+    <string name="onstart">onStart() calls : 0</string>
+    <string name="onrestart">onRestart() calls : 0</string>
+    <string name="onresume">onResume() calls : 0</string>
+    <string name="startactivity">Start next Activity</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="close_activity">Close Activity</string>
+
+</resources>
